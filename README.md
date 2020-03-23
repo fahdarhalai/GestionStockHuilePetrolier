@@ -49,7 +49,7 @@ Vous allez remarqué l'apparition des répertoire "bin" et "obj", il suffit de p
 
 ## Photos de l'application
 #### Fenêtre d'acceuil:
-
+![GitHub Logo](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 #### Fenêtre A Propos:
 
 #### Ajout de stock huile:
