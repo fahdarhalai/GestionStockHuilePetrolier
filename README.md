@@ -21,20 +21,20 @@ Pour tester et executer l'application il suffit de duppliquer ce projet Github e
 git clone https://github.com/fahdarhalai/GestionStockHuilePetrolier.git
 ```
 La structure du projet ressemble à celle-ci:
-
-  ├── ...
-  ├── GestionStockHuilePetrolier
-  │   ├── HuileWinForm
-          ├── Properties
-              └── ...
-          ├── Acceuil.cs
-          ├── Gestionnaire.cs
-          ├── Huile.cs
-          ├── HuileWinForm.csproj
-          ├── Program.cs
-          └── ...
-  │   └── ...
-  └── ...
+.
+├── ...
+├── GestionStockHuilePetrolier
+│   ├── HuileWinForm
+        ├── Properties
+            └── ...
+        ├── Acceuil.cs
+        ├── Gestionnaire.cs
+        ├── Huile.cs
+        ├── HuileWinForm.csproj
+        ├── Program.cs
+        └── ...
+│   └── ...
+└── ...
 Vous devez d'abord se positionner dans le répertoire HuileWinForm via la commande:
 ```
 cd GestionStockHuilePetrolier/HuileWinForm
