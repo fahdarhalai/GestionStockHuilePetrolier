@@ -49,12 +49,12 @@ Vous allez remarqué l'apparition des répertoire "bin" et "obj", il suffit de p
 
 ## Photos de l'application
 #### Fenêtre d'acceuil:
-![GitHub Logo](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+![Acceuil](https://user-images.githubusercontent.com/41004675/77268022-dad43c80-6ca4-11ea-9d38-9c4bfc649936.PNG)
 #### Fenêtre A Propos:
-
+![Apropos](https://user-images.githubusercontent.com/41004675/77268036-e6bffe80-6ca4-11ea-97f3-372c0471c832.PNG)
 #### Ajout de stock huile:
-
+![Saisie](https://user-images.githubusercontent.com/41004675/77268047-ede70c80-6ca4-11ea-8cc6-1e4e489ee1ba.PNG)
 #### Suppression par valeur de VC/VF:
-
+![Supprimer](https://user-images.githubusercontent.com/41004675/77268055-f50e1a80-6ca4-11ea-8128-f41f87377eff.PNG)
 
 
