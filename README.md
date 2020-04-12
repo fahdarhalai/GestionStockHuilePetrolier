@@ -47,7 +47,7 @@ msbuild HuileWinForm.csproj
 ```
 Vous allez remarqué l'apparition des répertoire "bin" et "obj", il suffit de prendre l'executable (StockHuile.exe) qui existe dans ```./bin/Debug/```, afin de tester les differentes fonctionnalités fournies par l'application.
 
-## Photos de l'application
+## Screenshots
 #### Fenêtre d'acceuil:
 ![Acceuil](https://user-images.githubusercontent.com/41004675/77268022-dad43c80-6ca4-11ea-9d38-9c4bfc649936.PNG)
 #### Fenêtre A Propos:
